@@ -11,7 +11,7 @@ The Raspberry Pi Zero, 1, 2, and 3 each contain two UARTs as follows:
 | Name | Type |
 |------|------|
 |UART0 |PL011 |
-|UART1 |mini UART |
+|UART1 |mini UART |xvxvxv
 
 ## Pi 4 - six UARTS
 
